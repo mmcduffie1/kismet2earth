@@ -3,7 +3,7 @@
 # kismet2earth 1.0
 # Author: Andrea Grandi <a.grandi AT gmail com>
 # License: GPL2
-# Copyright: Andrea Grandi 2010 - This cose is partially based on PyKismetKml (http://code.google.com/p/pykismetkml)
+# Copyright: Andrea Grandi 2010 - This code is partially based on PyKismetKml (http://code.google.com/p/pykismetkml)
 
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
